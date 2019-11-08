@@ -3,6 +3,7 @@
 ## Tabel Of Contents
  * Introduction
  * Main Screen
+ * Feature
  * Maze
  * Get Start
  * Roadmap
@@ -15,6 +16,8 @@
 The game is inspired from JRPG's maze system.
 
 ## Main Screen
+
+## Feature
 
 ## Get Start
 
