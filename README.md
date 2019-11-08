@@ -1,6 +1,6 @@
 # Dungeon Fantasy Quest
 
-## Tabel Of Contents
+## Tabel of Contents
  * Introduction
  * Main Screen
  * Feature
