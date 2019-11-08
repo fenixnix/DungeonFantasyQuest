@@ -1,4 +1,4 @@
-# Dungeon Fantasy Quest
+# ![Logo](/DFQ_Logo.png)Dungeon Fantasy Quest
 
 ## Tabel of Contents
  * Introduction
