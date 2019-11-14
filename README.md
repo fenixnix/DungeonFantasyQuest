@@ -15,7 +15,7 @@
 
 The game is inspired from JRPG's maze system.
 
-#### [Binary Release Download](https://github.com/fenixnix/DungeonFantasyQuest/releases)
+#### Lastest Release v0.2a !!![Binary Release Download](https://github.com/fenixnix/DungeonFantasyQuest/releases)
 
 ## Main Screen
 
