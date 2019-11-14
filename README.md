@@ -15,6 +15,8 @@
 
 The game is inspired from JRPG's maze system.
 
+## [Binary Release Download]()
+
 ## Main Screen
 
 ## Feature
